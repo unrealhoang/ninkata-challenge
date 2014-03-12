@@ -16,10 +16,10 @@ How does this challenge work ?
 
 I already wrote a very simple test suite, please modify it to your needs, see it as a starting point.
 
-1. Fork the [x-cellent challenge GitHub repo](https://github.com/xcellent/challenge).
+1. Fork the [ninkata-challenge](https://github.com/unrealhoang/ninkata-challenge).
 2. Create a working implementation of the CIDR.java Class, feel free to do architectural changes as you like.
 3. Test your program by executing `mvn clean install, all tests should pass.
-4. Once you think the job is done, write a simple mail with a link to you fork to: jobs@x-cellent.com
+4. Once you think the job is done, write a simple mail with a link to you fork to: team@silverlining.vn
 
 
 have fun !
